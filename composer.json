@@ -1,0 +1,19 @@
+{
+    "name": "iwindy/tp-api-captcha",
+    "autoload": {
+        "psr-4": {
+            "Iwindy\\ApiCaptcha\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "iwindy",
+            "email": "203962638@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {}
+}
